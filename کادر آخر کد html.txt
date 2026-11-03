@@ -1,0 +1,46 @@
+کادر آخر کد html 
+<div class="swiper-slide-item-card-end">
+          <div class="swiper-slide-item-card-end-1">
+           
+
+<svg fill="#0fabc6" width="40px" height="40px" viewBox="0 0 24 24" id="left-circle-2" xmlns="http://www.w3.org/2000/svg" class="icon line"><path id="primary" d="M12,3a9,9,0,1,1-9,9A9,9,0,0,1,12,3Zm4,9H8m2.5,2.5L8,12l2.5-2.5" style="fill: none; stroke: #0fabc6; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5;"></path></svg>
+            <h6>مشاهده همه</h6>
+          </div>
+         
+
+           
+          </div>
+کد های css
+
+
+
+
+
+
+.swiper-slide-item-card-end{
+  width: 192px;
+  height: 358px;
+  background-color: aliceblue;
+   background-color: #fff;
+  border-radius: 12px;
+  position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.swiper-slide-item-card-end .swiper-slide-item-card-end-1{
+   width: 68px;
+    height: 86px;
+ 
+  
+  h6{
+    font-size: 12px;
+    color:#3f4064;
+    font-weight: 300;
+    line-height: 2.17;
+    margin-top: 12px;
+
+  }
+}
